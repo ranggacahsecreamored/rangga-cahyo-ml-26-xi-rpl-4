@@ -1,0 +1,60 @@
+#shape {
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left:500px; 
+    background: #ffffff;
+    border-radius: 3px;
+	border: solid #ededed 1px;
+	box-shadow: 0 0 25px #58585a;
+}
+img{
+	width: 150px;
+	height: 60px;
+	margin-left: 70px;
+	margin-top: 10px;
+}
+.input{
+	font-family: sans-serif;
+	padding: 10px 10px;
+    padding-top: 10px;
+    margin: 10px 50px 10px 40px;
+    width: 200px;
+}
+.email{
+    padding: 10px 10px;
+    padding-top: 10px;
+    margin: 10px 50px 10px 40px;
+    width: 200px;
+    font-family: sans-serif;
+    border: solid #ededed 1px;
+    border-radius: 5px;
+}
+.fullname {
+    padding: 10px 10px;
+    padding-top: 10px;
+    margin: 10px 50px 10px 40px;
+    width: 200px;
+    font-family: sans-serif;
+    border: solid #ededed 1px;
+    border-radius: 5px;
+}
+.user {
+    padding: 10px 10px;
+    padding-top: 10px;
+    margin: 10px 50px 10px 40px;
+    width: 200px;
+    font-family: sans-serif;
+    border: solid #ededed 1px;
+    border-radius: 5px;
+}
+
+.pw{
+    padding: 10px 10px;
+    margin: 10px 50px 10px 40px;
+    width: 200px;
+    font-family:sans-serif;
+    border: solid #ededed 1px;
+    border-radius: 5px;
+}
+
